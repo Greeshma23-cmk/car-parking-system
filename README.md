@@ -55,6 +55,6 @@ It is designed to assist drivers by detecting obstacles when reversing the vehic
 ---
 
 ## 🔗 Project Link
-- [GitHub Repository Link](#) *(Update the link here)*
+- [GitHub Repository Link](#) *(https://github.com/Greeshma23-cmk/car-parking-system)*
 
 ---
