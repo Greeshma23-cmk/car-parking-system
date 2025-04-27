@@ -52,9 +52,7 @@ It is designed to assist drivers by detecting obstacles when reversing the vehic
 ## 👩‍💻 Author
 **Gollapalli Greeshma**
 
----
 
 ## 🔗 Project Link
 - [GitHub Repository Link](#) *(https://github.com/Greeshma23-cmk/car-parking-system)*
 
----
